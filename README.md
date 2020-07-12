@@ -1,2 +1,2 @@
 # stanford-cs231n
-## Computer Vision Graduate Class
+Computer Vision Graduate Class
